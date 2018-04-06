@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2018-04-05 22:13:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-04-05 03:44:43 -0400"
@@ -624,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2018-04-05 22:17:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-04-03 20:14:57 -0400"
@@ -632,9 +644,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "slime": "2018-04-05 22:08:18 -0400",
       "skeleton": "2018-04-03 19:25:44 -0400",
       "zombie": "2018-04-03 19:01:35 -0400",
       "silverfish": "2018-04-05 03:05:45 -0400",
+      "witch": "2018-04-05 22:17:45 -0400",
       "spider": "2018-04-03 19:03:19 -0400",
       "enderman": "2018-04-03 20:49:31 -0400"
     },
@@ -898,9 +912,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2018-04-05 22:17:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2018-04-05 03:44:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2018-04-05 22:08:44 -0400"
     },
     "done": true
   },
@@ -1012,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2018-04-05 22:08:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2018-04-03 20:54:16 -0400"
@@ -1027,12 +1059,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2018-04-05 15:11:31 -0400",
+      "birch_forest": "2018-04-05 22:06:35 -0400",
+      "swampland": "2018-04-05 22:08:08 -0400",
       "beaches": "2018-04-05 15:16:37 -0400",
       "extreme_hills_with_trees": "2018-04-03 18:52:50 -0400",
       "plains": "2018-04-05 15:11:07 -0400",
       "taiga": "2018-04-05 15:37:14 -0400",
       "taiga_hills": "2018-04-05 15:37:33 -0400",
       "extreme_hills": "2018-04-03 18:46:39 -0400",
+      "roofed_forest": "2018-04-05 22:13:34 -0400",
       "river": "2018-04-05 15:11:05 -0400",
       "stone_beach": "2018-04-05 15:13:46 -0400"
     },

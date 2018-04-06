@@ -311,6 +311,7 @@
       "cooked_mutton": "2018-04-03 21:47:02 -0400",
       "cooked_beef": "2018-04-03 19:18:25 -0400",
       "baked_potato": "2018-04-05 03:29:45 -0400",
+      "beef": "2018-04-05 22:16:01 -0400",
       "potato": "2018-04-03 20:34:41 -0400",
       "cooked_cod": "2018-04-05 03:09:50 -0400",
       "bread": "2018-04-05 15:31:21 -0400",
@@ -726,6 +727,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "slime": "2018-04-05 22:08:21 -0400",
       "skeleton": "2018-04-03 19:23:20 -0400",
       "zombie": "2018-04-03 19:00:39 -0400",
       "spider": "2018-04-03 19:01:33 -0400",
@@ -1027,6 +1029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2018-04-05 22:08:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2018-04-03 19:06:27 -0400"
@@ -1066,6 +1074,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-04-03 18:54:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2018-04-05 22:08:34 -0400"
     },
     "done": true
   },
@@ -1147,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2018-04-05 22:08:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2018-04-03 20:55:38 -0400"
@@ -1163,6 +1183,7 @@
     "criteria": {
       "forest": "2018-04-03 19:12:49 -0400",
       "swampland": "2018-04-03 19:46:30 -0400",
+      "birch_forest": "2018-04-05 22:06:24 -0400",
       "beaches": "2018-04-05 15:16:32 -0400",
       "extreme_hills_with_trees": "2018-04-03 18:52:52 -0400",
       "forest_hills": "2018-04-03 20:24:06 -0400",
@@ -1170,6 +1191,7 @@
       "taiga": "2018-04-03 20:03:53 -0400",
       "taiga_hills": "2018-04-03 20:04:04 -0400",
       "extreme_hills": "2018-04-03 18:52:34 -0400",
+      "roofed_forest": "2018-04-05 22:13:30 -0400",
       "river": "2018-04-03 19:12:46 -0400",
       "stone_beach": "2018-04-05 15:13:46 -0400"
     },
@@ -1355,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2018-04-05 22:17:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2018-04-03 19:00:41 -0400"
@@ -1382,6 +1410,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-04-03 20:36:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2018-04-05 22:08:34 -0400"
     },
     "done": true
   },
