@@ -730,6 +730,7 @@
       "slime": "2018-04-05 22:08:21 -0400",
       "skeleton": "2018-04-03 19:23:20 -0400",
       "zombie": "2018-04-03 19:00:39 -0400",
+      "witch": "2018-04-21 16:14:32 -0400",
       "spider": "2018-04-03 19:01:33 -0400",
       "creeper": "2018-04-03 21:31:38 -0400"
     },
@@ -948,6 +949,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2018-04-03 19:01:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2018-04-21 16:11:37 -0400"
     },
     "done": true
   },

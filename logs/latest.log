@@ -1,36 +1,51 @@
-[22:21:01] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[22:21:01] [Server thread/INFO]: Loading properties
-[22:21:01] [Server thread/INFO]: Default game type: SURVIVAL
-[22:21:01] [Server thread/INFO]: Generating keypair
-[22:21:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:21:02] [Server thread/INFO]: Using default channel type
-[22:21:03] [Server thread/INFO]: Preparing level "world"
-[22:21:06] [Server thread/INFO]: Loaded 488 advancements
-[22:21:06] [Server thread/INFO]: Preparing start region for level 0
-[22:21:08] [Server thread/INFO]: Preparing spawn area: 0%
-[22:21:09] [Server thread/INFO]: Preparing spawn area: 7%
-[22:21:10] [Server thread/INFO]: Preparing spawn area: 23%
-[22:21:11] [Server thread/INFO]: Preparing spawn area: 49%
-[22:21:12] [Server thread/INFO]: Preparing spawn area: 71%
-[22:21:12] [Server thread/INFO]: Done (9.316s)! For help, type "help" or "?"
-[22:21:22] [User Authenticator #1/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
-[22:21:23] [Server thread/INFO]: Optix570[/108.54.153.220:1025] logged in with entity id 269 at (-1870.9585784426142, 79.41999998688698, 274.9920404504103)
-[22:21:23] [Server thread/INFO]: Optix570 joined the game
-[22:21:27] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 5c7e28e9-4d56-4954-af59-48839f906346
-[22:21:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20719ms behind, skipping 414 tick(s)
-[22:22:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16719ms behind, skipping 334 tick(s)
-[22:22:12] [Server thread/WARN]: Optix570 moved too quickly! 4.23853018041882,1.8971759102604295,8.973334918456317
-[22:22:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13639ms behind, skipping 272 tick(s)
-[22:22:33] [User Authenticator #2/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
-[22:22:34] [Server thread/INFO]: Juanton_soup[/100.12.237.207:51844] logged in with entity id 1770 at (-1818.5795066897867, 78.0, 234.57544326197382)
-[22:22:34] [Server thread/INFO]: Juanton_soup joined the game
-[22:22:57] [Server thread/INFO]: <Optix570> sads
-[22:23:01] [Server thread/INFO]: <Optix570> no mansion close to heres
-[22:23:16] [Server thread/INFO]: <Optix570> :c
-[22:23:20] [Server thread/INFO]: [Optix570: Teleported Optix570 to Juanton_soup]
-[22:23:22] [Server thread/INFO]: <Juanton_soup> do you wanna ask paky if she wants to play
-[22:23:26] [Server Watchdog/FATAL]: A single server tick took 60.11 seconds (should be max 0.05)
-[22:23:26] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[22:23:27] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\Elijah\Desktop\MEserver\.\crash-reports\crash-2018-04-05_22.23.27-server.txt
-[22:23:27] [Server Shutdown Thread/INFO]: Stopping server
-[22:23:27] [Server Shutdown Thread/INFO]: Saving players
+[15:45:36] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[15:45:36] [Server thread/INFO]: Loading properties
+[15:45:36] [Server thread/INFO]: Default game type: SURVIVAL
+[15:45:36] [Server thread/INFO]: Generating keypair
+[15:45:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:45:37] [Server thread/INFO]: Using default channel type
+[15:45:37] [Server thread/INFO]: Preparing level "world"
+[15:45:38] [Server thread/INFO]: Loaded 488 advancements
+[15:45:38] [Server thread/INFO]: Preparing start region for level 0
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 1%
+[15:45:40] [Server thread/INFO]: Preparing spawn area: 58%
+[15:45:41] [Server thread/INFO]: Done (3.519s)! For help, type "help" or "?"
+[15:46:04] [User Authenticator #1/INFO]: UUID of player Optix570 is e32318e2-7636-4be2-8ad2-794d91429171
+[15:46:05] [Server thread/INFO]: Optix570[/108.54.153.220:1025] logged in with entity id 271 at (-1821.1318871798733, 78.0, 242.96585177857006)
+[15:46:05] [Server thread/INFO]: Optix570 joined the game
+[15:46:05] [User Authenticator #2/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[15:46:06] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 5c7e28e9-4d56-4954-af59-48839f906346
+[15:46:07] [Server thread/INFO]: Juanton_soup[/100.12.237.207:65438] logged in with entity id 569 at (-1821.5220332490806, 78.0, 241.50288191308857)
+[15:46:07] [Server thread/INFO]: Juanton_soup joined the game
+[15:46:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2499ms behind, skipping 49 tick(s)
+[15:48:34] [Server thread/INFO]: [Optix570: Set own game mode to Creative Mode]
+[15:48:48] [Server thread/INFO]: [Optix570: Teleported Optix570 to 0.5, 0.0, 100.5]
+[15:48:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3245ms behind, skipping 64 tick(s)
+[15:48:52] [Server thread/WARN]: Optix570 moved too quickly! -0.02835403292614247,-11.798174230684282,0.0
+[15:49:07] [Server thread/INFO]: [Optix570: Teleported Optix570 to 0.5, 100.0, 0.5]
+[15:49:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3964ms behind, skipping 79 tick(s)
+[15:49:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2432ms behind, skipping 48 tick(s)
+[15:49:57] [Server thread/INFO]: [Optix570: Game rule keepInventory has been updated to true]
+[15:50:03] [Server thread/INFO]: Optix570 fell out of the world
+[15:50:03] [Server thread/INFO]: [Optix570: Killed Optix570]
+[15:50:15] [Server thread/INFO]: [Optix570: Set own game mode to Survival Mode]
+[15:50:22] [Server thread/INFO]: [Optix570: Teleported Juanton_soup to Optix570]
+[15:50:32] [Server thread/INFO]: [Optix570: Game rule keepInventory has been updated to false]
+[16:04:14] [Server thread/INFO]: Optix570 lost connection: Disconnected
+[16:04:14] [Server thread/INFO]: Optix570 left the game
+[16:04:56] [Server thread/INFO]: <Juanton_soup> \locate temple
+[16:10:20] [Server thread/INFO]: [Juanton_soup: Set the time to 0]
+[16:16:47] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[16:16:47] [Server thread/INFO]: Juanton_soup left the game
+[16:18:36] [User Authenticator #3/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[16:18:36] [Server thread/INFO]: Juanton_soup[/100.12.237.207:49307] logged in with entity id 51260 at (-211.56743555883233, 67.0, 571.5381175876591)
+[16:18:36] [Server thread/INFO]: Juanton_soup joined the game
+[16:21:47] [Server thread/INFO]: <Juanton_soup> time set 0
+[16:21:52] [Server thread/INFO]: [Juanton_soup: Set the time to 0]
+[16:22:25] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[16:22:25] [Server thread/INFO]: Juanton_soup left the game
+[16:24:57] [User Authenticator #4/INFO]: UUID of player Juanton_soup is edd79b0f-8a46-46a8-9054-8cc37aa584e4
+[16:24:57] [Server thread/INFO]: Juanton_soup[/100.12.237.207:49353] logged in with entity id 59036 at (-243.7508072852052, 72.0, 46.07060806375536)
+[16:24:57] [Server thread/INFO]: Juanton_soup joined the game
+[16:31:32] [Server thread/INFO]: Juanton_soup lost connection: Disconnected
+[16:31:32] [Server thread/INFO]: Juanton_soup left the game
